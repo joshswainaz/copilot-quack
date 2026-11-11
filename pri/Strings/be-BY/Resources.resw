@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="DisplayName"><value>Крак</value></data>
+    <data name="Description"><value>Кракае.</value></data>
+    <data name="QuackFile"><value>Кракнуць на гэты файл</value></data>
+    <data name="QuackDir"><value>Кракнуць на гэтую тэчку</value></data>
+    <data name="QuackMulti"><value>Кракнуць на гэтыя элемэнты</value></data>
+    <data name="QuackHere"><value>Кракнуць тут</value></data>
+    <data name="QuackMisc"><value>Кракнуць</value></data>
+    <data name="ShareDisplayName"><value>Качка</value></data>
+    <data name="ShareDescription"><value>Качка.</value></data>
+</root>
